@@ -36,6 +36,7 @@ public class saolei implements ActionListener{
 		jFrame.setLayout(new BorderLayout());
 		
 		//显示重来按钮
+		//测试git
 		addResetButton();
 		
 		//定义游戏数据结构
@@ -43,7 +44,7 @@ public class saolei implements ActionListener{
 		//添加方格
 		addButtons();
 		
-		//埋雷
+		//埋雷111
 		addLei();
 		
 		//计算一个方格周围雷的个数
