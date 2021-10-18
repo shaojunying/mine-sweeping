@@ -1,4 +1,4 @@
-# 基于Java Swing实现的贪吃蛇
+# 基于Java Swing实现的扫雷
 
 本项目在jdk1.8下测试通过。
 
