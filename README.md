@@ -23,6 +23,14 @@ javac -d out src/**/*.java
 java -cp out shao.MineSweeping
 ```
 
+### 脚本运行
+
+根目录下的run.sh文件包含了上面的命令，可以直接执行该脚本来运行项目
+
+```bash
+chmod run.sh
+./run.sh
+```
 
 ### IDEA中运行
 
